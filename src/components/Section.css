@@ -1,0 +1,22 @@
+.intro{
+    /* padding-top: 100px; */
+/*     
+    margin-left: 20px;
+    margin-right: 20px; */
+
+}
+
+@media (min-width: 480px){
+    .jumber{
+        height: 1000px;
+    }
+}
+
+@media (max-width: 479px){
+    .intro{
+        padding-top: 100px;
+    }
+    .jumber{
+        height:400px;
+    }
+}
